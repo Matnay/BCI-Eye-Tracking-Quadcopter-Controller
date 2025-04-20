@@ -1,5 +1,5 @@
-# Quad_BCI_EYE_TRACK_FUSION_EKF
-Quadcopter Control Along with sensor fusion of EEG data along with eye tracking data using the Extended Kalman Filter
+# BCI-Eye-Tracking-Quadcopter-Controller
+Quadcopter Control by fusing EEG data along with eye tracking data using the Extended Kalman Filter
 
 Eviacam was used for gazetracking ,
 You can download the software using the steps given below-
